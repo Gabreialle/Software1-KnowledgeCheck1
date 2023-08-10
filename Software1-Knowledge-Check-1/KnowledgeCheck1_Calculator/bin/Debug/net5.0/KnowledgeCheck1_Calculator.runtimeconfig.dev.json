@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\gabre\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\gabre\\.nuget\\packages"
+    ]
+  }
+}
